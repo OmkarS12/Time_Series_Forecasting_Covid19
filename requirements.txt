@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+pyspark
+scikit-learn
+tensorflow
+Pytorch
+keras
+statsmodels
+datetime
+xlrd
+openpyxl
+scipy
+
