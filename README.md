@@ -18,7 +18,7 @@ The primary objectives of this project are:
 2. **Model Building**: Constructing time series forecasting models utilizing techniques such as ARIMA, SARIMA, or other relevant methodologies.
 3. **Model Evaluation**: Assessing the performance of the developed models and providing forecasts for future COVID-19 cases.
 
-##Results
+## Results
 
 
 ADF Statistic:  -0.8502264968191692
